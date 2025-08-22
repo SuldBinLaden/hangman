@@ -3,7 +3,6 @@
   height: 350px;
   display: flex;
   justify-self: center;
-  background-image: url(./images/0.jpg);
 }
 .text {
   text-align: center;
